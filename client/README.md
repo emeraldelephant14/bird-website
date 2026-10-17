@@ -25,11 +25,12 @@ logo, `viteLogo` for the Vite logo, and `BirdCard` for each reusable bird select
 
 ### Bird explorer data flow
 
-`Home.jsx` stores the four bird records in the `birds` array. It renders them with
-`birds.map()` and passes each record, its selected state, and the `setSelectedBird`
-callback to the reusable `BirdCard` component. When a card is clicked, `BirdCard` passes
-its `bird` back through `onSelect`; `Home` updates `selectedBird` with `useState`, and the
-field-notes panel displays that bird's diet, habitat, lifespan, and fun fact.
+`src/catalog.json` stores the bird records. `Home.jsx` imports that catalog, renders its
+records with `birds.map()`, and passes each record, its selected state, and the
+`setSelectedBird` callback to the reusable `BirdCard` component. When a card is clicked,
+`BirdCard` passes its `bird` back through `onSelect`; `Home` updates `selectedBird` with
+`useState`, and the field-notes panel displays that bird's diet, habitat, lifespan, and
+fun fact. Add another object to `catalog.json` to include another card in the grid.
 
 ### Birding list state
 

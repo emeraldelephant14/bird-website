@@ -1,0 +1,38 @@
+[
+  {
+    "id": "american-robin",
+    "name": "American Robin",
+    "scientificName": "Turdus migratorius",
+    "diet": "Earthworms, insects, and berries.",
+    "habitat": "Lawns, parks, forests, and backyards across Washington.",
+    "lifespan": "Typically 2 years in the wild; the oldest recorded lived about 14 years.",
+    "funFact": "Robins often tilt their heads as they listen for worms moving in the soil."
+  },
+  {
+    "id": "bald-eagle",
+    "name": "Bald Eagle",
+    "scientificName": "Haliaeetus leucocephalus",
+    "diet": "Mostly fish, along with water birds and carrion.",
+    "habitat": "Near lakes, rivers, and coastal waters, usually with tall trees for nesting.",
+    "lifespan": "Can live around 20–30 years in the wild.",
+    "funFact": "A pair may reuse and add to the same nest for many years."
+  },
+  {
+    "id": "black-capped-chickadee",
+    "name": "Black-capped Chickadee",
+    "scientificName": "Poecile atricapillus",
+    "diet": "Insects, spiders, seeds, and berries.",
+    "habitat": "Woodlands, parks, and leafy neighborhoods throughout the state.",
+    "lifespan": "Usually a few years in the wild; some live more than 10 years.",
+    "funFact": "Its familiar “chick-a-dee-dee” call can include more “dee” notes when danger is greater."
+  },
+  {
+    "id": "great-blue-heron",
+    "name": "Great Blue Heron",
+    "scientificName": "Ardea herodias",
+    "diet": "Fish, frogs, small mammals, and other aquatic animals.",
+    "habitat": "Wetlands, shorelines, rivers, and estuaries; it often nests in colonies.",
+    "lifespan": "Often around 15 years in the wild, with some living longer.",
+    "funFact": "It can stand almost motionless before striking quickly to catch prey."
+  }
+]
